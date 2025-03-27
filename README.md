@@ -1,5 +1,16 @@
 ## Hi everyone 👋
 
+
+## 👩‍💻 About Me
+
+Hi! I'm Zeynep, I'm currently expanding my knowledge in Socket Programming, Computer Design and Networks.
+I'm currently studying Software Engineering and love discovering new fields.
+
+- 🔭 I’m currently working on academic and personal projects using Java, .NET, and C++  
+- 🌱 I’m learning React, ASP.NET Core, and database management  
+- 👯 I’m looking to collaborate on creative and impactful software projects  
+- 💬 Ask me about anything related to algorithms, backend development, or GitHub  
+
 <!--
 **zeynepvera/zeynepvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
