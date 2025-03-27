@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 -->
 
-## 👁️ Profile Views
+## 
 
 ![Ziyaretçi](https://komarev.com/ghpvc/?username=zeynepvera&color=blue)
 
