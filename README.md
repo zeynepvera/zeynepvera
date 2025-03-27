@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 ## 
 
 ![Ziyaretçi](https://komarev.com/ghpvc/?username=zeynepvera&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeynep-dagtekin)
+## 🌐 Bağlantılar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeynepvera)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepvera&layout=compact&langs_count=6&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepvera&show_icons=true&theme=radical)
