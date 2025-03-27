@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ## 📬 Contact
 
-📧 Email: [zeynepvera@gmail.com](mailto:zeynep.dagtekin@stu.fsm.edu.tr)  
+📧 Email: [zeynep.dagtekin@stu.fsm.edu.tr](mailto:zeynep.dagtekin@stu.fsm.edu.tr)  
 🔗 LinkedIn: [linkedin.com/in/zeynepvera](https://www.linkedin.com/in/zeynep-dagtekin)
 
 
