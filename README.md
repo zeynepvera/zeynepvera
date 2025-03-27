@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 -->
 
-## 
 
 ![Ziyaretçi](https://komarev.com/ghpvc/?username=zeynepvera&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeynepvera)
