@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ## 👁️ Ziyaretçi Sayısı
 
-![Ziyaretçi](https://komarev.com/ghpvc/?username=mehmet123&color=blue)
+![Ziyaretçi](https://komarev.com/ghpvc/?username=zeynepvera&color=blue)
 
 -->
