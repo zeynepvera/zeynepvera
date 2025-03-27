@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone 👋
 
 <!--
 **zeynepvera/zeynepvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 
 
 -->
+## 📬 Contact
+
+📧 Email: [zeynepvera@gmail.com](mailto:zeynep.dagtekin@stu.fsm.edu.tr)  
+🔗 LinkedIn: [linkedin.com/in/zeynepvera](https://www.linkedin.com/in/zeynep-dagtekin)
 
 
 ![Ziyaretçi](https://komarev.com/ghpvc/?username=zeynepvera&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeynepvera)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepvera&layout=compact&langs_count=6&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepvera&show_icons=true&theme=radical)
