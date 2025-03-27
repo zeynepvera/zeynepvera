@@ -5,7 +5,7 @@
 
 Hi! I'm Zeynep, I'm currently expanding my knowledge in Socket Programming, Computer Design and Networks.
 
-I'm currently studying Software Engineering and love discovering new fields.
+Studying Software Engineering and love discovering new fields.
 
 
 
