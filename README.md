@@ -29,9 +29,18 @@ Here are some ideas to get you started:
 
 -->
 ## 📬 Contact
+## 📬 Contact Me
 
-📧 Email: [zeynep.dagtekin@stu.fsm.edu.tr](mailto:zeynep.dagtekin@stu.fsm.edu.tr)  
-🔗 LinkedIn: [linkedin.com/in/zeynep-dagtekin](https://www.linkedin.com/in/zeynep-dagtekin)
+<p align="left">
+  <a href="https://www.linkedin.com/in/zeynep-dagtekin" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:zeynep.dagtekin@stu.fsm.edu.tr">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+  </a>
+</p>
+
 
 
 ![Ziyaretçi](https://komarev.com/ghpvc/?username=zeynepvera&color=blue)
