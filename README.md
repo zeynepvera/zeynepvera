@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 -->
 ## 📬 Contact
-## 📬 Contact Me
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/zeynep-dagtekin" target="_blank">
