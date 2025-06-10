@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:zeynep.dagtekin@stu.fsm.edu.tr">
+  <a href="mailto:zeynpdagtekin@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
   </a>
 </p>
