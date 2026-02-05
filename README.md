@@ -1,53 +1,46 @@
-  ## Hi everyone 👋
+# Hi, I’m Zeynep 👋
 
-  
+🎓 Software Engineering student  
+🌱 Passionate about learning new technologies and exploring different fields  
+💻 Interested in Big Data, Machine Learning, and Software Development
 
+---
 
 ## 👩‍💻 About Me
 
-Hi! I'm Zeynep,Studying Software Engineering and love discovering new fields.
+I am a Software Engineering student who enjoys discovering new areas in technology.  
+I like working on data-driven projects and continuously improving my technical skills.
 
+---
 
+## 🛠️ Technologies & Tools
 
-<!--
-**zeynepvera/zeynepvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Languages:** Python, SQL, Java  
+- **Data & ML:** Pandas, NumPy, Scikit-learn  
+- **Big Data:** MapReduce  
+- **Tools:** Git, GitHub, Jupyter Notebook
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📂 Projects
 
+- 📊 **Machine Learning & Data Analysis Projects**
+- 🗺️ **Big Data & MapReduce Applications**
+- 🗄️ **Advanced SQL Queries and Data Processing**
 
+You can find detailed explanations and reports in my repositories.
 
--->
-## 📬 Contact
+---
 
+## 📫 Contact
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/zeynep-dagtekin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:zeynpdagtekin@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
-  </a>
-</p>
+- 💼 [LinkedIn](https://www.linkedin.com/)
+- ✉️ Email: yourmail@example.com
 
+---
 
+## 📈 GitHub Stats
 
-![Ziyaretçi](https://komarev.com/ghpvc/?username=zeynepvera&color=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeynepvera&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepvera&layout=compact&langs_count=6&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepvera&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=zeynepvera&theme=radical)
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
-
-
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepvera&layout=compact&theme=dark)
