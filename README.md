@@ -1,12 +1,3 @@
-# Hi, I’m Zeynep 👋
-
-## 👩‍💻 About Me
-
-🎓 Software Engineering student  
-🌱 Currently interest about AI.
-
----
-
 
 ## 📫 Contact
 
